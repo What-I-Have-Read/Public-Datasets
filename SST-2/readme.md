@@ -1,4 +1,4 @@
-# SST-2数据集
+# SST-2 dataset
 
 > the Binary Stanford Sentiment Treebank (Binary SST)
 

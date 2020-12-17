@@ -1,6 +1,6 @@
-# 常用公开数据集汇总
+# Public Datasets Summarization
 
 ## classification
 
-- [x] SST-2
-- [ ] IMDB
+- [x] SST-2 - _the Binary Stanford Sentiment Treebank (Binary SST)_
+- [x] IMDB - _IMDB Movie Review_
